@@ -5,7 +5,7 @@ Full Stack Developer • Open Source • Always learning
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Developer;Open+Source+Enthusiast;Always+Learning&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+%2B+Frontend;Open+Source+Enthusiast;Always+Learning&center=true&width=500&height=45">
 </p>
 
 ---
@@ -37,10 +37,6 @@ Full Stack Developer • Open Source • Always learning
 <img src="https://github-readme-stats.vercel.app/api?username=shamandul&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=shamandul&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamandul&layout=compact&theme=tokyonight&hide_border=true"/>
 
