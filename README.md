@@ -72,28 +72,20 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shamandul&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shamandul&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shamandul&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=shamandul&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamandul&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamandul&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shamandul&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# 🐍 Contributions Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shamandul/shamandul/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shamandul&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -101,5 +93,5 @@
 # 👀 Visitors
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=shamandul&icon=5&color=12"/>
+<img src="https://komarev.com/ghpvc/?username=shamandul&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
